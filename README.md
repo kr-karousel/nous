@@ -139,7 +139,7 @@ NOUS names its failure modes rather than hiding them:
 
 ## Whitepaper
 
-**[NOUS Whitepaper v0.7 (PDF)](./whitepaper/NOUS_Whitepaper_v0.7.pdf)**
+**[NOUS Whitepaper v0.7 (PDF)](./NOUS_Whitepaper_v0.7.pdf)**
 
 Version history: v0.1 → v0.7, each version authored and revised independently.
 
